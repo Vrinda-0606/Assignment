@@ -1,11 +1,3 @@
-# TecH.e
-
-## [ Live Website Link](https://tech-e-auth.web.app/)
-
-Also Click here : [https://tech-e-auth.web.app/](https://tech-e-auth.web.app/)
-
-## New Feature: THREE.js View in Event Details Page and firestore impliment - 13-12-2023
-
 ### Overview
 
 The Event Details page now features an immersive THREE.js view related to the specific event. This view provides an interactive and visually engaging experience for users.
